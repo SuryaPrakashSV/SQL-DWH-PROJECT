@@ -26,6 +26,5 @@ Customer Behaviar
 
 
 🌟 About Me
-Hi there! I'm Surya. I’m an IT professional and passionate Data Engineer on a mission to gain knowledge and make working with data enjoyable and engaging!
 
-Let's stay in touch! Feel free to connect with me on the following platforms:
+Hi there! I'm Surya. I’m aHi, I’m Surya — an IT professional and dedicated Data Engineer with a passion for building scalable data solutions. I'm driven by a continuous desire to deepen my knowledge and make working with data both efficient and enjoyable
