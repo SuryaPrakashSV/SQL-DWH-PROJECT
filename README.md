@@ -4,8 +4,10 @@ Hello There, Welcome to the ""SQL-DATA-WAREHOUSE-PROJECT" repo !
 'Medallion Architecture Engineered' Data Warehouse on SQL Server with Optimized ETL Pipelines and Analytical Models"
 This project showcases a complete data warehousing and analytics solution, starting from building the data warehouse to uncovering meaningful insights. Created as a portfolio piece, it reflects real-world data engineering and analytics practices.
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🚀 Project Requirements
+🚀 Project Requirements:
+
 sas Building the Data Warehouse (Data Engineering)
 Base Objective
 Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
