@@ -1,32 +1,33 @@
-# SQL-DATA-WAREHOUSE-PROJECT
+## 🙌 Credits
 
-Hello There, Welcome to the ""SQL-DATA-WAREHOUSE-PROJECT" repo !
-'Medallion Architecture Engineered' Data Warehouse on SQL Server with Optimized ETL Pipelines and Analytical Models"
-This project showcases a complete data warehousing and analytics solution, starting from building the data warehouse to uncovering meaningful insights. Created as a portfolio piece, it reflects real-world data engineering and analytics practices.
+Special thanks to [@DataWithBaraa](https://github.com/DataWithBaraa) for their original [SQL Data Warehouse Project](https://github.com/DataWithBaraa/sql-data-warehouse-project), which inspired and guided the structure of this work. Their approach helped shape my understanding of medallion architecture and real-world ETL workflows.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
+# SQL Data Warehouse Project
 
-🚀 Project Requirements:
+Hi there! 👋 Welcome to my **SQL Data Warehouse Project** repository.
 
-sas Building the Data Warehouse (Data Engineering)
-Base Objective
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
-aaas Specifications
-"Data Sources: Import data fros source systems (ERP and CRM) provided
-CSV files.
-"Data Quality: Cleanse and resolve data quality issues prior to analysis.
-"Integration**: Combine both sources intu a single, user-friendly data model designed for analytical queries,
-**Scope: Focus on the latest dataset only; historization of data is not required. **Documentation
-Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+This project demonstrates a hands-on implementation of a **Medallion Architecture-based Data Warehouse** using **Microsoft SQL Server**, complete with optimized **ETL pipelines**, clean **data modeling**, and actionable **SQL-based analytics**. Designed as a portfolio project, it showcases real-world data engineering practices—from data ingestion to insight generation.
 
-B2: Analytics & Reporting (Data Analytics)
-25
-Objective
-27
-Develop SQL-nased analytics to deliver detailed insights into:
-Customer Behaviar
+---
 
+## 🚀 Project Objectives
 
-🌟 About Me
+### 🧱 Data Engineering – Building the Warehouse
+**Goal**: Design and implement a modern SQL Server-based data warehouse that consolidates ERP and CRM datasets to support analytical reporting and decision-making.
 
-Hi there! I'm Surya. I’m aHi, I’m Surya — an IT professional and dedicated Data Engineer with a passion for building scalable data solutions. I'm driven by a continuous desire to deepen my knowledge and make working with data both efficient and enjoyable
+**Key Components**:
+- **Data Sources**: Import and process structured CSV files from ERP and CRM systems.
+- **Data Quality**: Perform cleansing and transformation to ensure data consistency and reliability.
+- **Data Integration**: Merge sources into a unified analytical model optimized for performance and accessibility.
+- **Scope**: Focused on the latest available dataset (historical tracking not required).
+- **Documentation**: Provide clear schema documentation to support analysts and business users.
+
+---
+
+### 📊 Data Analytics – Insights & Reporting
+**Goal**: Develop SQL queries to generate meaningful insights related to customer behavior, sales trends, and operational metrics.
+
+---
+
+## 🌟 About Me
+I'm a Data Science & AI graduate student passionate about data engineering, cloud computing, and building scalable data solutions. This project is part of my ongoing journey to master modern data infrastructure and analytics practices.
