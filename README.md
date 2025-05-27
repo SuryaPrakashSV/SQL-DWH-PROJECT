@@ -8,7 +8,7 @@ Hi there! 👋 Welcome to my **SQL Data Warehouse Project** repository.
 
 This project demonstrates a hands-on implementation of a **Medallion Architecture-based Data Warehouse** using **Microsoft SQL Server**, complete with optimized **ETL pipelines**, clean **data modeling**, and actionable **SQL-based analytics**. Designed as a portfolio project, it showcases real-world data engineering practices—from data ingestion to insight generation.
 
----
+------
 
 ## 🚀 Project Objectives
 
